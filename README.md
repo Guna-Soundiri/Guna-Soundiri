@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guna-Soundiri
 - 👀 I’m interested in Web Development!.
-- 🌱 I’m currently learning Java, CSS, JavaScript, Html, Mysql.
+- 🌱 Knowledged with Java, CSS, JavaScript, Html, Mysql, UX.
 - 📫 How to reach me - Linkedin.
 
 <!---
